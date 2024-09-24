@@ -4,8 +4,7 @@ This is team repository of highfive team
 - Notion : [notion link](https://www.notion.so/2024-1016cd3d264b802e8b79f32aa7dadf00)
 
 ## Projects
-인공지능은 사람의 마음을 이해할 수 있을까?
-- 2024.09 ~ 2024.11
+**인공지능은 사람의 마음을 이해할 수 있을까?**
 
 Mission 1. 패션 스타일 이미지 분류
 - 1-1. 주어진 이미지 데이터의 파일 명은 아래와 같은 형식이다. “{W/T}_{이미지ID}_{시대별}_{스타일별}_{성별}.jpg”이에 기반하여 “이미지ID” 수 기준으로 “성별 & 스타일” 통계치를 아래 표 형식으로 기입한다.
@@ -22,4 +21,4 @@ Mission 3. 패션 추천시스템 만들기(최종)
 
 ## Data
 
-2024 Data Creator Camp.
+2024 Data Creator Camp - 2024.09 ~ 2024.11.
